@@ -1,0 +1,31 @@
+City,Total_Sales,Category,Category_Sales
+New York City,256368.161,Technology,109316.106
+New York City,256368.161,Furniture,75691.049
+New York City,256368.161,Office Supplies,71361.006
+Los Angeles,175851.34100000001,Technology,73029.78600000001
+Los Angeles,175851.34100000001,Furniture,54000.041
+Los Angeles,175851.34100000001,Office Supplies,48821.514
+Seattle,119540.742,Technology,42506.371999999996
+Seattle,119540.742,Furniture,40995.878
+Seattle,119540.742,Office Supplies,36038.492
+San Francisco,112669.092,Office Supplies,42253.152
+San Francisco,112669.092,Furniture,36357.308
+San Francisco,112669.092,Technology,34058.632
+Philadelphia,109077.013,Technology,41923.319
+Philadelphia,109077.013,Furniture,36495.541
+Philadelphia,109077.013,Office Supplies,30658.153000000002
+Houston,64504.7604,Technology,24951.982
+Houston,64504.7604,Furniture,23183.2144
+Houston,64504.7604,Office Supplies,16369.564
+Chicago,48539.541,Technology,22184.095
+Chicago,48539.541,Office Supplies,13860.224
+Chicago,48539.541,Furniture,12495.222
+San Diego,47521.029,Furniture,20031.237
+San Diego,47521.029,Technology,19754.275999999998
+San Diego,47521.029,Office Supplies,7735.516
+Jacksonville,44713.183,Technology,29188.352000000003
+Jacksonville,44713.183,Furniture,8821.395
+Jacksonville,44713.183,Office Supplies,6703.436000000001
+Springfield,43054.342,Technology,17120.992000000002
+Springfield,43054.342,Office Supplies,13887.152
+Springfield,43054.342,Furniture,12046.198
