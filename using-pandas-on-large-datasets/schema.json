@@ -1,0 +1,12 @@
+{
+    "hotel": "category",
+    "is_canceled": "boolean",
+    "lead_time": "int16",
+    "arrival_date_year": "int16",
+    "arrival_date_month": "category",
+    "arrival_date_day_of_month": "int8",
+    "adults": "int8",
+    "children": "int8",
+    "babies": "int8",
+    "customer_type": "category"
+}
