@@ -1,0 +1,41 @@
+﻿TransactionID,Client,Beneficiary,AmountUSD,TransactionDateTime,ClientTier
+1, Darth Vader, Luke Skywalker,120.5, 2024-06-01 12:30, Gold
+2, <Frodo Baggins>, Gandalf the Grey,, 2024-06-01 12:31, Silver
+3, Tony Stark, Bruce Banner,300.4, 2024-06-01 12:32, Gold
+4, Tony Stark, Bruce Banner,300.4, 2024-06-01 12:32, Gold
+5, Jon Snow., Daenerys Targaryen,150.75, 2024-06-01 12:33, Platinum
+6, Harry*Potter, Hermione Granger,200, 2024-06-01 12:34, Gold
+7, Luke Skywalker, Han Solo,90, 2024-06-01 12:35, Silver
+8, Katniss Everdeen, Peeta Mellark,120, 2024-06-01 12:36, Bronze
+9, Michael Scott., Dwight Schrute,85, 2024-06-01 12:37, Silver
+10, Walter White, Jesse Pinkman,70, 2024-06-01 12:38, Gold
+11, Tony Stark, Peter Parker,320.5, 2024-06-01 12:39, Gold
+12,DARTH VADER, Obi-Wan Kenobi,135, 2024-06-01 12:40, Gold
+13, Frodo Baggins, Sauron,100, 2024-06-01 12:41, Bronze
+14, Jon Snow, Arya Stark,150.75, 2024-06-01 12:42, Platinum
+15,, Luke Skywalker,150, 2024-06-01 12:43, Silver
+16, Hermione Granger, Harry Potter,250, 2024-06-01 12:44,
+17, Bruce Wayne, Clark Kent,80, 2024-06-01 12:45, Platinum
+18, Frodo Baggins, Bilbo Baggins,60, 2024-06-01 12:46, Silver
+19, -Walter White-,GUS FRING,95, 2024-06-01 12:47, Gold
+20, Michael Scott, Jim Halpert,85, 2024-06-01 12:48,
+21, Sherlock Holmes, John Watson,220, 2024-06-01 12:49, Gold
+22, Sherlock Holmes, John Watson,220, 2024-06-01 12:49, Gold
+23, Neo, Morpheus,115, 2024-06-01 12:50, Platinum
+24, Samwise Gamgee, Frodo Baggins,, 2024-06-01 12:51, Silver
+25, Ellen Ripley, Xenomorph XX121,180, 2024-06-01 12:52, Bronze
+26, Rick Sanchez, Morty Smith,130, 2024-06-01 12:53, Gold
+27,, Tyrion Lannister,200, 2024-06-01 12:54, Platinum
+28, Indiana Jones, Mola Ram,170, 2024-06-01 12:55, Gold
+29, James T. Kirk, Spock,90, 2024-06-01 12:56, Silver
+30, James Bond, M,105, 2024-06-01 12:57, Gold
+31, Tony Stark, Steve Rogers,310, 2024-06-01 12:58, Platinum
+32, Michael Corleone, Sonny Corleone,125, 2024-06-01 12:59, Silver
+33, Jack Sparrow, Davy Jones,140, 2024-06-01 13:00, Gold
+34, Fox Mulder, Dana Scully,75, 2024-06-01 13:01, Bronze
+35, Harry Potter, Ron Weasley,190, 2024-06-01 13:02, Gold
+36, Mario, Luigi,85, 2024-06-01 13:03, Silver
+37, Walter White, Skyler White,65, 2024-06-01 13:03, Bronze
+38, Bruce Wayne, Joker,255, 2024-06-01 13:06, Platinum
+39, Optimus Prime, Megatron,100, 2024-06-01 13:09,
+40, Clark Kent, Lois Lane,210, 2024-06-01 13:10, Silver
